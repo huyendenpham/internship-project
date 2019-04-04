@@ -1,0 +1,34 @@
+{
+	"1":
+	{
+		"attackSpeed":2.5,
+		"bulletNumb":5,
+		"rangeAttack":200,
+		"dmg":5,
+		"bulletType": 1
+	},
+	"2":
+	{
+		"attackSpeed":0.8,
+		"bulletNumb":20,
+		"rangeAttack":250,
+		"dmg":10,
+		"bulletType": 2
+	},
+	"3":
+	{
+		"attackSpeed":4,
+		"bulletNumb":5,
+		"rangeAttack":400,
+		"dmg":70,
+		"bulletType": 3
+	},
+	"4":
+	{
+		"attackSpeed":7,
+		"bulletNumb":1,
+		"rangeAttack":250,
+		"dmg":120,
+		"bulletType": 4
+	}
+}
