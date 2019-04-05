@@ -1,0 +1,19 @@
+From 4a869b0a3b48a542fa6e4d3bdc0291a73a873413 Mon Sep 17 00:00:00 2001
+From: Huyen Pham Thi Ngoc <huyen.phamthingoc@gamloft.com>
+Date: Fri, 5 Apr 2019 16:50:42 +0700
+Subject: [PATCH 2/2] - change in file a
+
+---
+ a.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/a.txt b/a.txt
+index e69de29..5897dde 100644
+--- a/a.txt
++++ b/a.txt
+@@ -0,0 +1 @@
++adasdasasas
+\ No newline at end of file
+-- 
+2.21.0.windows.1
+

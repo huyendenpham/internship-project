@@ -1,0 +1,16 @@
+From e703aca423df1593992cd8d9e86fa9917b359177 Mon Sep 17 00:00:00 2001
+From: Huyen Pham Thi Ngoc <huyen.phamthingoc@gamloft.com>
+Date: Fri, 5 Apr 2019 16:50:09 +0700
+Subject: [PATCH 1/2] + add file a
+
+---
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 a.txt
+
+diff --git a/a.txt b/a.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.21.0.windows.1
+
