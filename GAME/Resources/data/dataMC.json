@@ -1,0 +1,9 @@
+{
+	"MC":
+	{
+		"hp":100,
+		"moveSpeed":100,
+		"weaponType":2,
+		"armorLv":1
+	}
+}
